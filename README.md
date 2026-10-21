@@ -119,6 +119,11 @@ Se você encontrou algo para melhorar ou imaginou um novo recurso para o jogo, p
 **Programa:** Blend de IA  
 **Organização no GitHub:** [10Compilando](https://github.com/10Compilando)
 
+🃏 JOGUE O TRUCO DO SEU NIVALDO!
+
+🎮 Jogue a versão online:
+https://iaicafe.com.br/blends/truco
+
 Feito com código, criatividade e café. ☕🃏
 
 ---
